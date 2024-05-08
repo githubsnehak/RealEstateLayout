@@ -12,8 +12,7 @@ function ControlledCarousel() {
   return (
     <Carousel activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>
-        <img src="/img/banner1.png" className="d-block w-100" alt="First slide" />
-       
+       <img src={process.env.PUBLIC_URL + '/img/banner1.png'} className="d-block w-100" alt="First slide" />       
       </Carousel.Item>
       
       <Carousel.Item>
