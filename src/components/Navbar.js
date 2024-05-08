@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <div className="container-fluid nav-bar bg-transparent">
       <nav className="navbar navbar-expand-lg bg-white navbar-light py-0 px-4">
-        <a href="index.html" className="navbar-brand d-flex align-items-center text-center">
+        <a href="" className="navbar-brand d-flex align-items-center text-center">
           <h1 className="m-0 text-primary">SOBHA</h1>
         </a>
         <button type="button" className="navbar-toggler" onClick={toggleCollapse}>
