@@ -61,7 +61,7 @@ const Property = () => {
                                     </div>
                                 <div class="p-4 pb-0">
                                     
-                                    <a class="d-block h5 mb-2" href="">40%</a>
+                                    <a class="d-block h5 mb-2" href="">30%</a>
                                     <p class="text-primary mb-3">On Handover in Q4 2026</p>
                                     <button className="btn btn-primary" style={{ marginBottom: "10px" }}>Book Now</button>
 
