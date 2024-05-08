@@ -69,17 +69,7 @@ const Footer = () => {
               &copy; <a className="border-bottom" href="#">Copyright Milestone Homes Real Estate</a>   | All Right Reserved. 
               
             </div>
-            <div className="col-md-6 text-center text-md-end">
-              <div className="footer-menu">
-              <div className="d-flex pt-2">
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-twitter"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-facebook-f"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-youtube"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-linkedin-in"></i></a>
-            </div>
-              </div>
-            </div>
-          </div>
+             </div>
         </div>
       </div>
     </div>
