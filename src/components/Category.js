@@ -51,7 +51,7 @@ const Category = () => {
             <a className="cat-item d-block bg-light text-center rounded p-3" href="">
               <div className="rounded p-4">
                 <div className="icon mb-3">
-                  <img className="img-fluid" src="img/gym2.png" alt="Icon"/>
+                  <img className="img-fluid" src="img/gym2.PNG" alt="Icon"/>
                 </div>
                 <h6>Gym</h6>
                
