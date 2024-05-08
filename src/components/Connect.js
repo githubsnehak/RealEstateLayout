@@ -16,7 +16,7 @@ const Connect = () => {
               <div className="mb-4">
                 <h1 className="mb-3" style={{ color: "white" }}>Contact With Our Real Estate Advisor</h1>
                 <p>Know more about location, amenities, layouts and prices of Sobha One.</p>
-              </div>
+              </div><br/>
               <a href="" className="btn btn-primary py-3 px-4 me-2"><i className="fa fa-phone-alt me-2"></i>Make A Call</a><br/><br/>
               <a href="" className="btn btn-dark py-3 px-4"><i className="fa fa-calendar-alt me-2"></i>Get Appointment</a>
             </div>
