@@ -46,7 +46,7 @@ const Footer = () => {
                 <img className="img-fluid rounded bg-light p-1" src="img/banner2.png" alt=""/>
               </div>
               <div className="col-4">
-                <img className="img-fluid rounded bg-light p-1" src="img/banner3.png" alt=""/>
+                <img className="img-fluid rounded bg-light p-1" src="img/banner3.PNG" alt=""/>
               </div>
              
               
