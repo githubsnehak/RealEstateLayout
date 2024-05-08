@@ -16,7 +16,7 @@ function ControlledCarousel() {
       </Carousel.Item>
       
       <Carousel.Item>
-        <img src={process.env.PUBLIC_URL + '/img/banner3.png'} className="d-block w-100" alt="Third slide" />
+        <img src={process.env.PUBLIC_URL + '/img/banner3.PNG'} className="d-block w-100" alt="Third slide" />
         
       </Carousel.Item>
     </Carousel>
